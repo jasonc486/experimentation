@@ -1,4 +1,4 @@
-ÿHX711 Demo
+HX711 Demo
 Initializing the scale
 Before setting up the scale:
 read: 		-20277
